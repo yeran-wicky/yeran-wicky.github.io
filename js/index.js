@@ -1,4 +1,4 @@
 function gotologin() {
-    window.location.href = "yeran-wicky.github.io/login.php";
+    window.location.href = "https://yeran-wicky.github.io/login.php";
 }
 
